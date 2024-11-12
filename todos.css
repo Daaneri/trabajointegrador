@@ -1,0 +1,43 @@
+#titulo{
+    font-size:50px;
+}
+h1{
+    margin: 150px;
+    padding-top: 100px;
+}
+
+header{
+    font-family: "Permanent Marker", cursive;
+    font-size: 5px;
+background-image:url(Imagenes/fondo.png);
+   
+}
+
+.paginas{
+    font-size: 15px
+}
+
+
+section{
+    padding: 40px;
+    text-align: center;
+    background-color:#98FF98;
+    font-family:"DynaPuff", system-ui;
+}
+
+p{
+    font-size:15Px;
+}
+
+ol{
+    margin:auto;
+    width:500px;
+}
+footer{
+    font-size:15px;
+    color:white;
+    background-image: url(Imagenes/fondo.png);
+}
+table{
+    border-color: #005700;
+}
